@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AnkitXGandhi<br>👀 I’m interested in Coding and Programming<br>🌱 I’m currently learning C, C++ and JAVA<br>💞️ I’m looking to collaborate on Web development<br>📫 How to reach me on telegram @virgin_vanilla
+👋 Hi, I’m Ankit Gandhi<br>👀 I’m interested in Coding and Programming<br>🌱 I’m currently learning C, C++ and JAVA<br>💞️ I’m looking to collaborate on Web development<br>📫 How to reach me on telegram @virgin_vanilla
 
 
 ## 🌐 Socials:
